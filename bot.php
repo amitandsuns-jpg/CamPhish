@@ -1,6 +1,6 @@
 <?php
-$token = "YAHAN_APNA_BOT_TOKEN";
-$chat_id = "YAHAN_APNA_CHAT_ID";
+$token = "8529825431:AAGjNwCTOvE02f7uLtozj_ku89FO4AkuPts";
+$chat_id = "-1003822570114";
 
 if(isset($_GET['msg'])){
     $msg = $_GET['msg'];
